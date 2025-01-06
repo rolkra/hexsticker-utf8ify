@@ -1,0 +1,1 @@
+Hexsticker for R package {utf8ify}
